@@ -1,4 +1,4 @@
 mit-algo-cpp
 ============
 
-Some of the C++ codes written by viscrisn during 2010-2014
+Some codes written during 2010-2014 as coursework/ for competitive programming/ misc practice
