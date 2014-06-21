@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1370713209 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\1.6.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1372409652 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\linked_list.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1370798394 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\2.4.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1373652618 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\bst.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stack>
+	<queue>
+
+1372270910 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\pow(a,b) using only addition.cpp
+	<iostream>
+
+1371407707 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\replace_by_%20.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+
+1372354579 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\doubly_linked_list.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1372361925 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\cycle_in_ll_fast_pointer_slow_pointer.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1372398348 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\first_non_repeating_char_in_string.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+	<map>
+	<fstream>
+
+1372399424 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\remove_characters_from_string.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1372764843 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\flaten_ll.cpp
+	<iostream>
+	<stack>
+	<stdio.h>
+	<stdlib.h>
+
+1372418595 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\lengthwise_word_sorting_string.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<algorithm>
+
+1372532681 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\sorted_array_rotated_unknown_times.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1372749733 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\ll_selection_sort.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1372755470 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\ll_merge_sort.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1372935557 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\anagram.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1372935946 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\dll_to_bst.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1372941608 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\same_bits_greater_number.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1372941926 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\2nd_largest_in_an_array.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1373095014 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\base4_to_base2.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1373434315 source:d:\artifacts\computer programming\cpp saves\cpp projects\code_vishal_cracking\copy_ll.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

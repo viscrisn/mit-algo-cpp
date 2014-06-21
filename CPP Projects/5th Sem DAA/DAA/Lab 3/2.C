@@ -1,0 +1,40 @@
+#include<stdio.h>
+#include<conio.h>
+
+int search(int arr[100],int n,int num)
+{
+	int i;
+	for(i=0;i<n;i++)
+	{
+		if(arr[i]==num)
+		{
+			return i;
+		}
+	}
+	return -1;
+}
+
+void main()
+{
+	int arr[100],n,i,f,num;
+	clrscr();
+	printf("Enter the size of the array :-  ");
+	scanf("%d",&n);
+	printf("\nEnter the array elements :-\n");
+	for(i=0;i<n;i++)
+	{
+		scanf("%d",&arr[i]);
+	}
+	printf("Enter the element to be searched in the array :- ");
+	scanf("%d",&num);
+	f=search(arr,n,num);
+	if(f>=0)
+	{
+		printf("Element %d found at %dth position",num,(f+1));
+	}
+	else
+	{
+		printf("Element not found...");
+	}
+	getch();
+}

@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1349872427 source:d:\artifacts\computer programming\cpp saves\cpp projects\dipl assignment\factorial_rec.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<conio.h>
+	<cmath>
+
+1349872724 source:d:\artifacts\computer programming\cpp saves\cpp projects\dipl assignment\factorial_tail_rec.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<conio.h>
+	<cmath>
+
+1349872886 source:d:\artifacts\computer programming\cpp saves\cpp projects\dipl assignment\sum_first_n_rec.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<conio.h>
+	<cmath>
+
+1349874232 source:d:\artifacts\computer programming\cpp saves\cpp projects\dipl assignment\permutation_rec.cpp
+	<stdio.h>
+	<string.h>
+
+1349874507 source:d:\artifacts\computer programming\cpp saves\cpp projects\dipl assignment\fibo_rec.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<conio.h>
+	<cmath>
+
+1349876157 source:d:\artifacts\computer programming\cpp saves\cpp projects\dipl assignment\ternary_search.cpp
+	<stdio.h>
+
+1349876575 source:d:\artifacts\computer programming\cpp saves\cpp projects\dipl assignment\heap_sort.cpp
+	<stdio.h>
+	<conio.h>
+

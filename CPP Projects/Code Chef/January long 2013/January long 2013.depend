@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1357189253 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\january long 2013\chef_of_the_year.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1357491108 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\january long 2013\three_diff_numbers.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

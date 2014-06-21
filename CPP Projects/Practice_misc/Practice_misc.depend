@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1344435528 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\recursive_fibonacci.cpp
+	<iostream>
+
+1345438316 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\aaaabbbbcc_to_a4b4c2.cpp
+	<iostream>
+	<cstring>
+
+1345916980 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\search_sorted_rotated_array.cpp
+	<iostream>
+
+1351221526 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\reverse_linked_list.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+
+1351779765 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\reverse_string.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+
+1351780105 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\rotate_matrix_90.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+
+1351789330 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\doubly_to_bst.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+
+1352528167 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\adding_numbers_verylong_linkedlist.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<conio.h>
+
+1353927477 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\single_queue_as_a_stack.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1356916835 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\ds_group_finding_number_in_array.cpp
+	<iostream>
+	<stdio.h>
+
+1356986629 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\dfs_adj_mat.cpp
+	<iostream>
+	<stack>
+
+1360006335 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\first_even_from_right_no_conditional.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1368511975 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\insert_number_in_linked_list_digit_by_digit.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1368537463 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\perimeter_of_binary_tree.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1368936258 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\gcd_reccursive.cpp
+	<iostream>
+
+1382977043 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\untitled1.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+
+1373621575 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\operator_overloading.cpp
+	<iostream>
+
+1375520550 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\sorted_odd_even_positions_binary_search_modified.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1376411868 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\contineous_longest_substring.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1399284958 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\facebook balance and weights.cpp
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<stdlib.h>
+	<iostream>
+	<algorithm>
+	<vector>
+	<map>
+	<set>
+	<queue>
+	<stack>
+	<sstream>
+
+1399278147 source:d:\artifacts\computer programming\cpp saves\cpp projects\practice_misc\facebook mastermind.cpp
+	<algorithm>
+	<cstdlib>
+	<iostream>
+	<iterator>
+	<set>
+	<vector>
+

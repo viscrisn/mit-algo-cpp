@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1352657789 source:d:\artifacts\computer programming\cpp saves\cpp projects\computer_graphics_lab\test1\main.cpp
+	<iostream>
+	<GL/glut.h>
+
+1352868507 source:d:\artifacts\computer programming\cpp saves\cpp projects\computer_graphics_lab\test1\line1.cpp
+	<iostream>
+	<GL/glut.h>
+
+1352870913 source:d:\artifacts\computer programming\cpp saves\cpp projects\computer_graphics_lab\test1\dda.cpp
+	<iostream>
+	<GL/glut.h>
+	<cmath>
+
+1352999565 source:d:\artifacts\computer programming\cpp saves\cpp projects\5th sem cg lab\cg\lab2\dda.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1344506974 source:d:\artifacts\computer programming\cpp saves\cpp projects\5th sem cg lab\cg\lab2\bresenhan.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1353008115 source:d:\artifacts\computer programming\cpp saves\cpp projects\5th sem cg lab\cg\windmill.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<unistd.h>
+
+1353008043 source:d:\artifacts\computer programming\cpp saves\cpp projects\5th sem cg lab\test1\try1.cpp
+	<iostream>
+	<GL/glut.h>
+	<cmath>
+	<unistd.h>
+

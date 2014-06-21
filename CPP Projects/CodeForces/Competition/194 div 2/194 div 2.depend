@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1374914344 source:d:\artifacts\computer programming\cpp saves\cpp projects\codeforces\competition\194 div 2\a candy bags.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1374915318 source:d:\artifacts\computer programming\cpp saves\cpp projects\codeforces\competition\194 div 2\b eight point sets.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1374919001 source:d:\artifacts\computer programming\cpp saves\cpp projects\codeforces\competition\194 div 2\c secrets.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1374920694 source:d:\artifacts\computer programming\cpp saves\cpp projects\codeforces\competition\194 div 2\d chips.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+

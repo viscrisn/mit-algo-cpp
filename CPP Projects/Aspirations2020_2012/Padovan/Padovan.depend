@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1346758324 source:d:\artifacts\computer programming\cpp saves\cpp projects\aspirations2020_2012\padovan\padovan.cpp
+	<string.h>
+	<stdlib.h>
+	<iostream>
+

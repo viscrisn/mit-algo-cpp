@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1353257248 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\novembercook12\little_elephant_and_div_lediv.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+
+1353258258 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\novembercook12\little_elephant_and_div_lediv_himanshu.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<set>
+

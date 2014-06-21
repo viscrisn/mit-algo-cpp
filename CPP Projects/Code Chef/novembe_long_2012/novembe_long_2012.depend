@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1351841817 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\novembe_long_2012\coin_flip.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+

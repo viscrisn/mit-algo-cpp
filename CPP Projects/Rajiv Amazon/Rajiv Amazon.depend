@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1353825400 source:d:\artifacts\computer programming\cpp saves\cpp projects\rajiv amazon\2nd_largest.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+
+1353827359 source:d:\artifacts\computer programming\cpp saves\cpp projects\rajiv amazon\next_permute.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+
+1353834605 source:d:\artifacts\computer programming\cpp saves\cpp projects\rajiv amazon\link_level_tree.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1375456641 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\august long 2013\splitting candies.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+

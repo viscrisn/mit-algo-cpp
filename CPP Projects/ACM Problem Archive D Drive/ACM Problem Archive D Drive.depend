@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1349539932 source:d:\artifacts\computer programming\cpp saves\cpp projects\acm problem archive d drive\sakib_number_6.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<conio.h>
+
+1349603034 source:d:\artifacts\computer programming\cpp saves\cpp projects\acm problem archive d drive\sum_of_fact_2.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<conio.h>
+	<cmath>
+
+1355497280 source:d:\artifacts\computer programming\cpp saves\cpp projects\acm problem archive d drive\problem2011_asia_blade_and_sword_e.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

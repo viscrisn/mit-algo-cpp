@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1342164097 source:d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\candies\candies_main.cpp
+	<iostream>
+	<fstream>
+

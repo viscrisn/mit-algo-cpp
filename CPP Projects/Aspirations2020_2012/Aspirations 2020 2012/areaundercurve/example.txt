@@ -1,0 +1,53 @@
+// You could use this sample code to test your C functions
+// Please make appropriate changes to use this for C++.
+
+// Following main function contains 3 representative test cases
+
+int main() {
+    // test case 1
+	{
+		int noOfTerms = 2;
+		struct Term *equation = (struct Term*)malloc(sizeof(struct Term) * noOfTerms);
+		equation[0].exponent = 1;
+		equation[0].coefficient = 1;
+
+		equation[1].exponent = 2;
+		equation[1].coefficient = 3;
+
+		int limit1 = 4;
+		int limit2 = 8;
+
+		double usrout = getAreaUnderCurve(equation, noOfTerms, limit1, limit2);
+		printf("%lf", usrout);
+			
+	}
+
+    // test case 2
+	{
+		int noOfTerms = 1;
+		struct Term *equation = (struct Term*)malloc(sizeof(struct Term) * noOfTerms);
+		equation[0].exponent =1;
+		equation[0].coefficient = 1;
+
+		int limit1 = 1;
+		int limit2 = 1;
+
+		double usrout = getAreaUnderCurve(equation, noOfTerms, limit1, limit2);
+		printf("%lf", usrout);
+	
+	}
+
+    // test case 3
+	{
+		int noOfTerms = 1;
+		struct Term *equation = (struct Term*)malloc(sizeof(struct Term) * noOfTerms);
+		equation[0].exponent =1;
+		equation[0].coefficient = 1;
+
+		int limit1 = 2;
+		int limit2 = 1;
+
+		double usrout = getAreaUnderCurve(equation, noOfTerms, limit1, limit2);
+		printf("%lf", usrout);
+	}
+}

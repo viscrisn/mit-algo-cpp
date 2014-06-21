@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1360769844 source:d:\artifacts\computer programming\cpp saves\cpp projects\codeforces\competition\167 div 2\a.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+

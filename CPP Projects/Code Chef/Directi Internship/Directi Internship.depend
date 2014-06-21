@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1360428815 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\directi internship\qwert.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1360425570 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\directi internship\qwert_try2.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

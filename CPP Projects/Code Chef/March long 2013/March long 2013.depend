@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1362165838 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\march long 2013\approximately.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+

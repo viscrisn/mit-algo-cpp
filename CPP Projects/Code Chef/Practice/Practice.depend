@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1350154804 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\practice\bytelandian_gold_coins.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<conio.h>
+	<cmath>
+
+1350155874 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\practice\atm.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+

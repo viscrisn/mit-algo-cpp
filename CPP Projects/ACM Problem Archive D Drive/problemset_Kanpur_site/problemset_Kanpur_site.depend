@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1355911764 source:d:\artifacts\computer programming\cpp saves\cpp projects\acm problem archive d drive\problemset_kanpur_site\b the story of spring secret.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

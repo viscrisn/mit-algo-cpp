@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1365614528 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse prometheus 2013\24x7 codechef\24x7 codechef\multi_threads.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1365617862 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse prometheus 2013\24x7 codechef\24x7 codechef\powerpuff_girls_beebo.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1365618381 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse prometheus 2013\24x7 codechef\24x7 codechef\kbc.cpp
+	<iostream>
+	<fstream>
+
+1365619310 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse prometheus 2013\24x7 codechef\24x7 codechef\greenland.cpp
+	<iostream>
+	<vector>
+	<deque>
+
+1365620623 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse prometheus 2013\24x7 codechef\24x7 codechef\powerpuff_girls_beebo2.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<set>
+	<string>
+	<cmath>
+	<stdio.h>
+	<iomanip>
+	<queue>
+	<map>
+

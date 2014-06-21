@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1356254600 source:d:\artifacts\computer programming\cpp saves\cpp projects\codeforces\practice\239 a. two bags of potatoes\naive.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1373354623 source:d:\artifacts\computer programming\cpp saves\cpp projects\codeforces\practice\279c ladders.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stdio.h>
+

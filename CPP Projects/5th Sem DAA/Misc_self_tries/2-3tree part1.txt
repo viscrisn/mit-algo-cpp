@@ -1,0 +1,34 @@
+public class TreeNode
+{
+    /**
+     * Constructor initializes the various node values
+     */
+    public TreeNode()
+    {
+        smallKey = -1001;
+        bigKey = -1001;
+        right = null;
+        left = null;
+        middle = null;
+        parent = null;
+    }
+    /**
+     * This method returns true if the node is empty
+     * @return true if node is empty false otherwise
+     */
+    public boolean isEmpty()
+    {
+        if (this.smallKey == -1001 && this.bigKey == -1001)
+            return true;
+        else 
+            return false;
+    }
+    //Data Fields
+    public TreeNode left;
+    public TreeNode right;
+    public TreeNode middle;
+    public TreeNode parent;
+    public int smallKey;
+    public int bigKey;
+    //public final int DEFAULT_VALUE = -1001
+}

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1355322127 source:d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\kingdom connectivity\modified_warshal_kingdom_conn.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1355325037 source:d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\kingdom connectivity\modified_dfs_kingdom_conn.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

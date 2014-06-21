@@ -1,0 +1,147 @@
+public class TwoThreeTree
+{
+    /**
+     * Constructor creates a node to initialize the tree
+     */
+    public TwoThreeTree()
+    {
+        root = new TreeNode();
+    }
+    /**
+     * Method to traverse the tree looking for a node to insert the given key
+     * @param key to be searched
+     * @param starting node (always root)
+     * @return TreeNode where the value occurs (or would have occurred)
+     */
+    public TreeNode searchTree(int key, TreeNode node)
+    {
+        TreeNode n = new TreeNode();
+        
+        
+        //Check if the node is empty... Need a better way to do this 
+        //Only supposed to be true once, when we first deal with root node and 
+        //this is where the 4th value is getting inserted in the wrong place. 
+        if (node.smallKey == -1001 || node.bigKey == -1001)
+        {
+            //if a match is found return the node
+            return node;
+        }
+        else
+        {
+            //if the key is smaller than the small key 
+            //go to the left child of tree
+            if (key < node.smallKey)
+            {
+                if (node.left == null)
+                    return node;
+                //But if the left child doesn't exist return the node
+                //otherwise continue searching down the tree
+                else searchTree(key, node.left);
+            }
+            //if key is bigger than the big key go to
+            //the right child of the tree
+            else if (key > node.bigKey)
+            {
+                if (node.right == null)
+                    return node;
+                
+                else searchTree(key, node.right);
+            }
+            //The last option is the key is inbetween big and small
+            //so go the middle child
+            else
+            {
+                if (node.middle == null)
+                    return node;
+                
+                else searchTree(key, node.middle);
+            }
+        }
+        
+        //Otherwise we don't have a tree and need to create one
+                
+        return n;
+    }
+    /**
+     * This method inserts a key into the tree
+     * @param key to be inserted into the tree
+     */
+    public void insert(int key)
+    {
+        tnode = searchTree(key, root);
+        //This should happen only once for root
+        if (tnode.isEmpty()) 
+        {
+            tnode.smallKey = key;
+        }
+        
+        //Problem Child continues here from the search method as the wrong node
+        //is returned and value is added to the wrong place
+        else if (tnode.bigKey == -1001)
+        {
+            tnode.bigKey = key;
+            if (tnode.smallKey > key)
+            {
+                tnode.bigKey = tnode.smallKey;
+                tnode.smallKey = key;
+            }    
+        }
+        else 
+            split(key, tnode);
+                
+    }
+    /**
+     * This method splits a given node
+     * @param key the value causing the split
+     * @param node to be split
+     */
+    public void split(int key, TreeNode node)
+    {
+        //If the node doesn't have a parent we are dealing with the root 
+        //node
+        if (node.parent == null)
+        {//THIS NEEDS SERIOUS WORK :((((((((((((
+            //Create a new node to be root
+            TreeNode t = new TreeNode();
+            node.parent = t;
+            //And another node to be the other child
+            TreeNode c = new TreeNode();
+            c.parent = t;
+            root = t;
+            if (key > node.smallKey && key < node.bigKey)
+            {
+                //Set the key for new parent node to the promoted value
+                t.smallKey = key;
+                //Set the key for the new child as the bigKey from split node
+                c.smallKey = node.bigKey;
+                //Reset the bigKey value in the split node
+                node.bigKey = -1001;                
+            }
+            else if (key < node.smallKey)
+            {
+                t.smallKey = node.smallKey;
+                t.left = node;
+                node.smallKey = key;
+                c.smallKey = node.bigKey;  
+                t.right = c;
+                node.bigKey = -1001;
+            }
+            else 
+            {
+                t.smallKey = node.bigKey;
+                t.right = c;
+                node.bigKey = -1001;
+                c.smallKey = key;
+            }
+        }
+            
+    }    
+    
+    public TreeNode getRoot()
+    {
+        return root;
+    }
+    //Data Fields
+    private TreeNode tnode;
+    private TreeNode root;
+}

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1342172237 source:d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\insertion_sort\insertion_main.cpp
+	<iostream>
+
+1342172810 source:d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\insertion_sort\insertion_main_c.c
+	<stdio.h>
+
+1342173221 source:d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\insertion_sort\insertion_main_c_cpp.cpp
+	<stdio.h>
+	<iostream>
+

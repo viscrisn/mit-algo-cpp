@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1382539377 source:d:\artifacts\computer programming\cpp saves\cpp projects\acm icpc online 2013\flee to shelter.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1382542661 source:d:\artifacts\computer programming\cpp saves\cpp projects\acm icpc online 2013\creating a wormhole.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1382547580 source:d:\artifacts\computer programming\cpp saves\cpp projects\acm icpc online 2013\blurry vision.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1382549361 source:d:\artifacts\computer programming\cpp saves\cpp projects\acm icpc online 2013\blurry vision 2.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+

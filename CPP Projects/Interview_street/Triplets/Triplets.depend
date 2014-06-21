@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1355488425 source:d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\triplets\1st_hit_in_mind.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+	<set>
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1355634650 source:d:\artifacts\computer programming\cpp saves\cpp projects\codeforces\virtual round\contest 155\a cards with numbers\naive.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+	<fstream>
+
+1355636019 source:d:\artifacts\computer programming\cpp saves\cpp projects\codeforces\virtual round\contest 155\a cards with numbers\pre-sorting.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

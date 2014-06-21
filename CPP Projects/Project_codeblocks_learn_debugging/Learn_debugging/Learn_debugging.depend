@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1341383947 source:d:\learn_debugging\words.cpp
+	"words.h"
+	<cstdlib>
+	<sstream>
+
+1341381823 d:\learn_debugging\words.h
+	<string>
+
+1341383947 source:d:\learn_debugging\textstats.cpp
+	<iomanip>
+	<iostream>
+	<string>
+	"words.h"
+
+1341383947 source:d:\artifacts\computer programming\cpp saves\cpp projects\with project codes (with debug option)\project_codeblocks_learn_debugging\learn_debugging\words.cpp
+	"words.h"
+	<cstdlib>
+	<sstream>
+
+1341381823 d:\artifacts\computer programming\cpp saves\cpp projects\with project codes (with debug option)\project_codeblocks_learn_debugging\learn_debugging\words.h
+	<string>
+
+1341383947 source:d:\artifacts\computer programming\cpp saves\cpp projects\with project codes (with debug option)\project_codeblocks_learn_debugging\learn_debugging\textstats.cpp
+	<iomanip>
+	<iostream>
+	<string>
+	"words.h"
+

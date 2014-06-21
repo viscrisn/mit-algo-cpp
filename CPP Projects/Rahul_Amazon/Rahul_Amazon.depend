@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1381057687 source:d:\artifacts\computer programming\cpp saves\cpp projects\rahul_amazon\q2.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+

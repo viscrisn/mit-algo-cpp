@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1359176296 source:d:\artifacts\computer programming\cpp saves\cpp projects\facebook hackercup 2013\beautiful strings.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1359525873 source:d:\artifacts\computer programming\cpp saves\cpp projects\facebook hackercup 2013\balanced smileys.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

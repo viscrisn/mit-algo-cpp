@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1352726587 source:d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\meeting point\meeting_point_stl_midpoint.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+
+1352726915 source:d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\meeting point\meeting_point_stl_allpoints.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+

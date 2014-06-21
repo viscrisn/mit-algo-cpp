@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1355665547 source:d:\artifacts\computer programming\cpp saves\cpp projects\codeforces\virtual round\2012-2013 acm-icpc northeastern european regional contest (neerc 12)\e. exact measurement_greedy.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

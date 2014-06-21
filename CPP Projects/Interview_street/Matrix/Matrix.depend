@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1355407956 source:d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\matrix\matrix_dfs_each_node_check.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

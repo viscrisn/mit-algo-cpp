@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1358698860 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\january cook off 2013\min_dist.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1358703337 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\january cook off 2013\many_chef.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

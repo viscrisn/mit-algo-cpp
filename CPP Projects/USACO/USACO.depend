@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1356268780 source:d:\artifacts\computer programming\cpp saves\cpp projects\usaco\ride.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1356277267 source:d:\artifacts\computer programming\cpp saves\cpp projects\usaco\gift1.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

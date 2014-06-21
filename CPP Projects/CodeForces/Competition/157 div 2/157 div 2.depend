@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1356191010 source:d:\artifacts\computer programming\cpp saves\cpp projects\codeforces\competition\157 div 2\a litle elephants and chess.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1356193986 source:d:\artifacts\computer programming\cpp saves\cpp projects\codeforces\competition\157 div 2\c. little elephant and bits.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1356193562 source:d:\artifacts\computer programming\cpp saves\cpp projects\codeforces\competition\157 div 2\b little elephants and magic square.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

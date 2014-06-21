@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1342200529 source:d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\median\main_sort_and_find.cpp
+	<iostream>
+	"InsertRemove.h"
+	"Median.h"
+
+1342197314 d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\median\insert.h
+
+1342199634 d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\median\insertremove.h
+
+1342200653 d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\median\median.h
+
+1352665964 source:d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\median\median_stl.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<set>
+	<list>
+
+1352669473 source:d:\artifacts\computer programming\cpp saves\cpp projects\interview_street\median\median_stl_vector.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<set>
+	<list>
+

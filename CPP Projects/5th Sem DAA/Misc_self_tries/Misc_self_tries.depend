@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1343848616 source:d:\artifacts\computer programming\cpp saves\cpp projects\5th sem daa\misc_self_tries\binary_search_tree.cpp
+	<iostream>
+	<stdlib.h>
+
+1344012147 source:d:\artifacts\computer programming\cpp saves\cpp projects\5th sem daa\misc_self_tries\sieve_of_eratosthence.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
+1346524945 source:d:\artifacts\computer programming\cpp saves\cpp projects\5th sem daa\misc_self_tries\insertion_sort_main.cpp
+	"Insertion_sort.h"
+
+1346525108 d:\artifacts\computer programming\cpp saves\cpp projects\5th sem daa\misc_self_tries\insertion_sort.h
+	<iostream>
+
+1346526806 source:d:\artifacts\computer programming\cpp saves\cpp projects\5th sem daa\misc_self_tries\create_graph_dfs_bfs.cpp
+	<iostream>
+	<stdlib.h>
+
+1354689586 source:d:\artifacts\computer programming\cpp saves\untitled1.cpp
+	<iostream>
+	<cstring>
+

@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1383313778 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\november long 2013\missing chairs.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1383369846 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\november long 2013\square digits squares.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+
+1383370569 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\november long 2013\superpowers of 2.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+

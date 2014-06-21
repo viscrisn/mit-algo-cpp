@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1346751226 source:d:\artifacts\computer programming\cpp saves\cpp projects\aspirations2020_2012\aspirations 2020 2012\decodethecode\decodethecode.c
+	<string.h>
+	<stdio.h>
+
+1346754996 source:d:\artifacts\computer programming\cpp saves\cpp projects\aspirations2020_2012\aspirations 2020 2012\decodethecode\decodethecode.cpp
+	<string.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+

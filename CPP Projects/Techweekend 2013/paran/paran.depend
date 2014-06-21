@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1359884991 source:d:\artifacts\computer programming\cpp saves\cpp projects\techweekend 2013\paran\mine.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1359886036 source:d:\artifacts\computer programming\cpp saves\cpp projects\techweekend 2013\paran\citydriving.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1359890307 source:d:\artifacts\computer programming\cpp saves\cpp projects\techweekend 2013\paran\robot.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1359894017 source:d:\artifacts\computer programming\cpp saves\cpp projects\techweekend 2013\paran\gen_nos.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1359897406 source:d:\artifacts\computer programming\cpp saves\cpp projects\techweekend 2013\paran\rock.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1359899199 source:d:\artifacts\computer programming\cpp saves\cpp projects\techweekend 2013\paran\edit string.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

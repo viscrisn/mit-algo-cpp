@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1352003235 source:d:\artifacts\computer programming\cpp saves\cpp projects\amc icpc amrita 2012\a_pairsocks.cpp
+	<iostream>
+	<string.h>
+
+1352004736 source:d:\artifacts\computer programming\cpp saves\cpp projects\amc icpc amrita 2012\sequence_e.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+
+1352005602 source:d:\artifacts\computer programming\cpp saves\cpp projects\amc icpc amrita 2012\b_sticks.cpp
+	<iostream>
+	<math.h>
+
+1355918763 source:d:\artifacts\computer programming\cpp saves\cpp projects\amc icpc amrita 2012\c.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

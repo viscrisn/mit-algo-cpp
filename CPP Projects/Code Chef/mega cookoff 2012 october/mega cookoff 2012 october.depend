@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1350843442 source:d:\artifacts\computer programming\cpp saves\cpp projects\code chef\mega cookoff 2012 october\tournament.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+

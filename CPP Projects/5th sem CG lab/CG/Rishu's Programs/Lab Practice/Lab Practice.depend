@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1351245633 source:d:\c++ files\lab practice\bresenhamline.cpp
+	<iostream>
+	<GL/glut.h>
+
+1351253242 source:d:\c++ files\lab practice\parametric clipping.cpp
+	<iostream>
+	<GL/glut.h>
+
+1346335585 source:d:\5th sem\a1-20 (cg lab)\week5\cohen_sutherland_clipping.cpp
+	<iostream>
+	<GL/glut.h>
+
+1351252843 source:d:\5th sem\a1-20 (cg lab)\week5\cs2.cpp
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+
+1351256743 source:d:\c++ files\lab practice\parametric line clipping.cpp
+	<iostream>
+	<GL/glut.h>
+

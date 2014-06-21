@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1352638243 source:d:\artifacts\computer programming\cpp saves\cpp projects\learn stl\to_lower_string.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+
+1352640690 source:d:\artifacts\computer programming\cpp saves\cpp projects\learn stl\functional_sort_lessthan.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<functional>
+	<algorithm>
+	<map>
+

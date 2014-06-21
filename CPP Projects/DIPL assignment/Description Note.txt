@@ -1,0 +1,4 @@
+Quick Sort, Permutation, Heapsort, Binary Search, Tower of hanoi, Ternary Search, Is the tree a BST
+
+Done above programs in tail reccursive form only. 
+Since tail recurssive is also head reccursive, therefore, I am submiting both solution as the same for these problems.

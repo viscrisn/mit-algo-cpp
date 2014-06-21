@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1355673128 source:d:\artifacts\computer programming\cpp saves\cpp projects\codeforces\competition\156 div 2\b. code parsing.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1355678932 source:d:\artifacts\computer programming\cpp saves\cpp projects\codeforces\competition\156 div 2\d. mr. bender and square.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

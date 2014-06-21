@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1351345313 source:d:\artifacts\computer programming\cpp saves\cpp projects\code sprint 3 - interview street\binomial_coefficient.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+

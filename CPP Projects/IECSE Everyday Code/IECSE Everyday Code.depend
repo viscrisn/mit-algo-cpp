@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1349120053 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse everyday code\oct1_sort_matrix.cpp
+	<iostream>
+
+1349268093 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse everyday code\oct3_culmulative_frequency_of_digits.cpp
+	<iostream>
+
+1350285200 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse everyday code\ques4.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+
+1350380819 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse everyday code\ques4_alt_method.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+
+1350846008 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse everyday code\ques5.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+
+1370423486 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse everyday code\code heat\ques2.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<set>
+	<queue>
+	<fstream>
+

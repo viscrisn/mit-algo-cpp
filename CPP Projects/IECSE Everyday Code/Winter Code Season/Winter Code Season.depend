@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1355144382 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse everyday code\winter code season\ques1_arthematic_progression_consecutive_3_numbers.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1355149023 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse everyday code\winter code season\ques1_algo2.cpp
+	<algorithm>
+	<cstdio>
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<deque>
+	<functional>
+	<iostream>
+	<iterator>
+	<list>
+	<map>
+	<memory>
+	<queue>
+	<set>
+	<stack>
+	<string>
+	<vector>
+
+1355662149 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse everyday code\winter code season\copied_from_codechef_setter's solution.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<cassert>
+	<functional>
+	<stack>
+	<queue>
+
+1356003184 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse everyday code\winter code season\ques4_dfs.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+
+1356294118 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse everyday code\winter code season\ques5_padovan.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+
+1356294544 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse everyday code\winter code season\ques5_padovan_final_submit.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+
+1356618304 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse everyday code\winter code season\ques6.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<cmath>
+	<algorithm>
+	<vector>
+	<stack>
+	<queue>
+	<map>
+	<functional>
+	<set>
+
+1356818525 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse everyday code\winter code season\ques7_copied.cpp
+	<cmath>
+	<cctype>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cassert>
+	<algorithm>
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+	<functional>
+	<map>
+	<set>
+
+1356870858 source:d:\artifacts\computer programming\cpp saves\cpp projects\iecse everyday code\winter code season\ques7_naive.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<functional>
+	<stack>
+	<queue>
+

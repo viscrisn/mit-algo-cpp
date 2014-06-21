@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1345483868 source:d:\artifacts\computer programming\cpp saves\cpp projects\glut_test\main.cpp
+	<iostream>
+	<GL/glut.h>
+

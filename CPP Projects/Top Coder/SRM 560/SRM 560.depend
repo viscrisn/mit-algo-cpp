@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1352568042 source:d:\artifacts\computer programming\cpp saves\cpp projects\top coder\srm 560\250.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cmath>
+	<cctype>
+	<algorithm>
+	<sstream>
+	<queue>
+	<cstdlib>
+	<map>
+	<set>
+
+1352571067 source:d:\artifacts\computer programming\cpp saves\cpp projects\top coder\srm 560\500.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cmath>
+	<cctype>
+	<algorithm>
+	<sstream>
+	<queue>
+	<cstdlib>
+	<map>
+	<set>
+
